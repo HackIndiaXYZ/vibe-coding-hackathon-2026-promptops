@@ -1,8 +1,10 @@
 # Ayuverse
 
-Ayuverse is an AI-assisted preventive healthcare web application built for a hackathon setting. The app gives each user a private health workspace where they can track daily health signals, manage medication logs, upload health reports, chat with an AI health guardian, and discover doctors based on their location and health needs.
+Ayuverse is an AI-assisted preventive healthcare web application built for a hackathon setting. The app gives each user a private health workspace where they can track daily health signals, manage medication logs, upload health reports, chat with an AI health guardian, and discover doctors based on their location and health needs.The project is designed to start with no demo patient data. Every account begins empty, and the experience becomes more useful as the user adds their own profile, check-ins, medications, records, and cycle logs.
 
-The project is designed to start with no demo patient data. Every account begins empty, and the experience becomes more useful as the user adds their own profile, check-ins, medications, records, and cycle logs.
+## 🌐 Live Demo
+
+https://ayuverse.onrender.com
 
 ## What The App Does
 
